@@ -1,3 +1,5 @@
+<p align="center"> <img width="1000px" src="https://github.com/Forgotten-Hope-2-community-addons/.github/blob/cdf851d807b9bdd3c382b0ab12a1b4added553b2/media/fh2_banner.jpg"/> </p>
+
 # Forgotten Hope 2 community add-ons
 
 A central home for [Battlefield 2](https://en.wikipedia.org/wiki/Battlefield_2) and [Forgotten Hope 2](https://forgottenhope.warumdarum.de/) modding tutorials, guides and tooling.
